@@ -1,0 +1,28 @@
+Gameplay:
+*Note the Yellow boundaries can make you take damage!
+	Teleporter Pad is located on the first area, before the bridge.
+	You can pre calculate landing by moving forward and backward buttons.
+	
+	Ice is located on the second part (slippery)
+	The rotating parts are instant kill and will take you to the beginning of the level.
+	The ramp part increases your speed with ice to head over to the third part
+	
+	When you land try not to land into the sand, as it will render you to stop.
+	You can continue in the sand, but you slow down.
+	(Follow the path)
+	
+	The red Capsules are enemies. They use Adforce for them to shoot.
+	
+	At the end you will see fallable objects.
+	
+	Platforms Marked green take 4 seconds to collapse.
+	Platforms Marked yellowtake 2 seconds to collapse.
+	
+	You will Turn to the Left. There is a secret teleporter hidden as a powerup.
+	
+	Move towards the left to win the game
+UI:
+	Restart
+	Quit
+	Destination to End
+	Time Trials
